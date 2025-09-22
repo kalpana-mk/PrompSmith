@@ -63,11 +63,12 @@ promptsmith/
 
 ## 🧑‍💻 Author
 
-- Developed by **Dhinesh**  
+- Developed by **KALPANA**  
 - Tagline: *"Your Pocket Prompt Engineer."*
 
 ---
 
 ## 🛡️ License
 
-© 2025 PromptSmith. Engineered by AI, crafted by Dhinesh.
+© 2025 PromptSmith. Engineered by AI, crafted by Kalpana.
+
